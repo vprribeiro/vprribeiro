@@ -1,39 +1,115 @@
-# Heey there!! I'm Vitor 👋, Welcome to my GitHub profile 😄
+# Olá! Eu sou Vitor Ribeiro 👋
 
-## ☝️About me :
+💻 Desenvolvedor Front-end e Mobile com foco em **React, React Native e TypeScript**.
 
- - 👨🏻‍💻 I'm a Clinical Engineer in a career transition 
- - 🖥️ Full Stack Developer  
- - 📫 Contact: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991532529)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/ribeiro-vitor)
+Atualmente estou em transição de carreira para o desenvolvimento de software, aplicando minha experiência prévia em gestão de projetos, implantação de tecnologias e melhoria de processos na construção de aplicações web e mobile.
 
-## 🛠️ Skills
+Aqui você encontrará projetos desenvolvidos durante minha formação e estudos práticos, com foco em interfaces modernas, experiência do usuário e evolução contínua como desenvolvedor.
 
-### Languages
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
+## 🚀 Sobre mim
 
-### Front-end
+- 👨🏻‍💻 Engenheiro Clínico em transição para o desenvolvimento de software;
+- 📱 Desenvolvedor Front-end e Mobile com foco em React e React Native;
+- 🚀 Desenvolvendo aplicações web e mobile utilizando TypeScript e JavaScript;
+- 🌱 Aprimorando continuamente meus conhecimentos em React Native, Expo e ecossistema mobile;
+- 🤝 Experiência prévia em gestão de projetos, transformação digital e implantação de soluções tecnológicas.
+---
 
-<div >
-	<img width="60" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-	<img width="60" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
-	<img width="60" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-	<img width="60" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
-</div>
+## 📫 Contato
 
-### Back-end
+Fique à vontade para entrar em contato ou acompanhar minha trajetória profissional:
 
-<div >
-	<img width="60" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
-	<img width="60" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
-	<img width="60" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-	<img width="60" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
-</div>
+📧 E-mail: vprribeiro@hotmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/ribeiro-vitor/
+
+💬 WhatsApp:
+https://wa.me/5571991532529
+
+Ou, se preferir, utilize os botões abaixo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/ribeiro-vitor)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991532529) 
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vprribeiro@hotmail.com)
+
+---
+## ⭐ Principais Projetos em Destaque
+
+### 📱 App de Finanças Pessoais
+
+Aplicativo mobile desenvolvido com React Native e Expo para gerenciamento financeiro pessoal, permitindo o cadastro e acompanhamento de receitas e despesas.
+
+**Funcionalidades:**
+- Cadastro de receitas e despesas;
+- Navegação entre telas;
+- Persistência local de dados com AsyncStorage;
+- Interface responsiva e intuitiva.
+
+**Tecnologias utilizadas:**
+- React Native
+- TypeScript
+- Expo
+- AsyncStorage
+
+🔗 Repositório: https://github.com/vprribeiro/financas-app
+
+---
+
+### 🚗 Website Institucional para Empresa do Segmento Automotivo
+
+Landing Page desenvolvida com React para apresentação de produtos e serviços automotivos, com foco em experiência do usuário e presença digital.
+
+**Funcionalidades:**
+- Interface responsiva;
+- Integração com Google Maps;
+- Formulário de contato;
+- Deploy em produção utilizando Vercel.
+
+**Tecnologias utilizadas:**
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+🌐 Demonstração:
+https://p3-landing-page.vercel.app/
+
+🔗 Repositório:
+https://github.com/vprribeiro/p3-landing-page
+
+---
 
 
-### Extra:
+## 🛠️ Tecnologias e Ferramentas
 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black)   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### Linguagens
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+
+### Front-end e Mobile
+
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)](https://skillicons.dev)
+
+**Também utilizo:**
+- React Native
+- Expo
+
+### Back-end e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postman,mysql,git,firebase)](https://skillicons.dev)
+
+---
+
+
+## 🎯 Objetivo
+
+Busco oportunidades como **Desenvolvedor Front-end ou Mobile**, contribuindo para a construção de produtos digitais de qualidade, aplicando minha capacidade analítica, experiência em gestão e paixão por tecnologia para gerar impacto positivo através do desenvolvimento de software.
+
+Obrigado pela visita! 😄
 
 
